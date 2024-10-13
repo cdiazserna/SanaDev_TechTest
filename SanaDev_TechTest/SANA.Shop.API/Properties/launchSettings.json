@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SANA.Shop.API": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7019",
+      "launchBrowser": false
+    }
+  }
+}
